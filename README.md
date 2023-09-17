@@ -1,6 +1,6 @@
-# RECUT-FREE
+# RECUT FREE, CRACK, PRO
 Get RECUT Automatic video Editor, for free.
-
+Cracked file, crack pro, free, re-cut, cutre, automatic video editor, ai editor
 
 https://getrecut.com/
 Do you wanna to get Recut free?
