@@ -1,4 +1,4 @@
-# RECUT FREE, CRACK, PRO
+# RECUT FREE, CRACK, PRO (Windows & Mac)
 Get RECUT Automatic video Editor, for free.
 Cracked file, crack pro, free, re-cut, cutre, automatic video editor, ai editor
 
@@ -17,3 +17,11 @@ Focus on the file "settings.json"
 4. Enjoy it free
 
 You just save 99$ with this.
+
+# For MacOS (any)
+
+cd ~/Library/Application\ Support/co.tinywins.recut
+
+Then afterwards:
+
+nano settings.json
